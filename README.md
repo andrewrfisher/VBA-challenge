@@ -1,2 +1,2 @@
 # VBA-challenge
-In this repo are my VBA files, excel spreadsheets, and screenshots of the summary tables.
+This repo contains the VBA Homework Script, screenshots from the 3 years of data, and the alphabetical testing spreadsheet.
